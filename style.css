@@ -35,4 +35,14 @@ h1{
 }
 h2{
     font-size: 40px;
+    padding-top: 100px;
+}
+.section-two{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.third-part{
+    text-align: center;
 }
