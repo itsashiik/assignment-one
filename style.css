@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.color{
+    color: rgb(9, 166, 228);
+}
+section{
+    display: flex;
+    margin: 30px 30px 30px 30px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 100px;
+}
+.half-width img{
+    width: 100%;
+}
+h1{
+    font-size: 65px;
+    padding-top: 50px;
+}
+.link-button{
+    background-color: rgb(9, 166, 228);
+    text-decoration: none;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 50px;
+    background-image: linear-gradient(rgb(9, 166, 228),skyblue) ;
+}
+.section-one{
+    padding-bottom: 40px;
+}
+.second-image{
+    width: 50%;
+}
+h2{
+    font-size: 40px;
+}
