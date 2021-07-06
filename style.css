@@ -1,5 +1,5 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .color{
     color: rgb(9, 166, 228);
@@ -44,5 +44,19 @@ h2{
    
 }
 .third-part{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.container{
+    width: 20%;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 30px gray;
+    margin-left: 8%
+}
+.container img{
+    width: 100%;
+}
+.join{
     text-align: center;
 }
